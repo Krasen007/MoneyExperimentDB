@@ -1,0 +1,5 @@
+Here is your summary: 
+food 12
+rent 150
+gas 30
+Your spendings are: 192
