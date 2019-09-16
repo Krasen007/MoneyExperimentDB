@@ -1,3 +1,3 @@
 git add .
-git commit -m "Ureate database"
+git commit -m "Update database"
 git push
