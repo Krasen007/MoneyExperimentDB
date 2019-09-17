@@ -1,6 +1,2 @@
 Here is your summary: 
-food 12
-rent 150
-gas 30
-gifts 17
-Your spendings are: 209
+Your spendings are: 0
