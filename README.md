@@ -1,8 +1,8 @@
-# MoneyExperiment
- Experimental budgeting app.
+# MoneyExperimentDB
+This repo is the database of the MoneyExperiment app.
+Its purpose is to keep the added items and cost online.
 
-
-### How to use and compile:
+## How to use and compile MoneyExperiment:
 
 * Install git as global app.
 * Install .net core 3
