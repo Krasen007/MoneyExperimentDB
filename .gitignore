@@ -347,3 +347,13 @@ healthchecksdb
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
+
+
+#MY STUFF
+MoneyExperiment.runtimeconfig.json
+MoneyExperiment.runtimeconfig.dev.json
+MoneyExperiment.pdb
+MoneyExperiment.exe
+MoneyExperiment.dll
+MoneyExperiment.deps.json
+database/Summary.txt
