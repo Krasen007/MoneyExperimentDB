@@ -350,10 +350,9 @@ MigrationBackup/
 
 
 #MY STUFF
-MoneyExperiment.runtimeconfig.json
-MoneyExperiment.runtimeconfig.dev.json
-MoneyExperiment.pdb
-MoneyExperiment.exe
-MoneyExperiment.dll
-MoneyExperiment.deps.json
-database/Summary.txt
+Database/Summary.txt
+Money Experiment.runtimeconfig.json
+Money Experiment.runtimeconfig.dev.json
+Money Experiment.exe
+Money Experiment.dll
+Money Experiment.deps.json
