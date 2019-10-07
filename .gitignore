@@ -354,6 +354,5 @@ Scripts/
 *.dll
 *.md
 *.txt
-*.bat
 *.exe
 *.json
