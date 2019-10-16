@@ -5,7 +5,7 @@ grajdanska 30
 hrana 47
 zavedeniq 9
 water 0
-abor 45
+abor 0
 
-Your spendings are: 311
-Your amount left on budget is: 213
+Your spendings are: 266
+Your amount left on budget is: 258
