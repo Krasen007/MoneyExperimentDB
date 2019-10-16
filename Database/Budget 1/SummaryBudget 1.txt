@@ -1,0 +1,11 @@
+*********** October 2nd Half **********
+gas 30
+kredit 150
+grajdanska 30
+hrana 47
+zavedeniq 9
+water 0
+abor 45
+
+Your spendings are: 311
+Your amount left on budget is: 213
